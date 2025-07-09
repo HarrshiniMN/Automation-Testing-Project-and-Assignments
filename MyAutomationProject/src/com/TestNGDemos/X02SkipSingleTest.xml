@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Any Suite">
+<test name = "Excluding">
+<classes>
+<class name = "com.TestNGDemos.D07MyntraAssignment">
+<methods>
+<exclude name = "com.TestNGDemos"></exclude>
+</methods>
+</class>
+</classes>
+</test>
+</suite>

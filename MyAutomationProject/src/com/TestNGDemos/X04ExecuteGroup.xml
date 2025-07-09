@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "For Groups">
+<test name = "Groups">
+<classes>
+<class name = "com.TestNGDemos.D08CreatingGroups">
+
+</class>
+</classes>
+<groups>
+<run>
+<include name = "Mini"></include>
+</run>
+</groups>
+</test>
+</suite>

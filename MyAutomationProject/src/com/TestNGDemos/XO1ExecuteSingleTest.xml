@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Harrshini">
+<test name = "My Test">
+<classes>
+<class name = "com.TestNGDemos.D07MyntraAssignment">
+<methods>
+<include name = "clickOnKids"></include>
+<include name = "clickOnWomen"></include>
+</methods>
+</class>
+</classes>
+</test>
+</suite>
