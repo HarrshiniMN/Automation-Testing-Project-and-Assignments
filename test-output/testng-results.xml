@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-07T16:19:23 IST" name="Default suite" finished-at="2025-06-07T16:19:29 IST" duration-ms="5570">
+    <groups>
+    </groups>
+    <test started-at="2025-06-07T16:19:23 IST" name="Default test" finished-at="2025-06-07T16:19:29 IST" duration-ms="5570">
+      <class name="MobileGestures.CaptureScreenshotTest">
+        <test-method signature="takingScreenshot()[pri:0, instance:MobileGestures.CaptureScreenshotTest@4d9e68d0]" started-at="2025-06-07T16:19:23 IST" name="takingScreenshot" finished-at="2025-06-07T16:19:29 IST" duration-ms="5544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takingScreenshot -->
+      </class> <!-- MobileGestures.CaptureScreenshotTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
