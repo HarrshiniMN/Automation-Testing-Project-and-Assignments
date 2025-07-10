@@ -24,7 +24,7 @@ public class AssignmentQ2 {
             driver = new RemoteWebDriver(new URL(nodeURL), options);
         } else if (browser.equalsIgnoreCase("firefox")) {
             FirefoxOptions options = new FirefoxOptions();
-            nodeURL = "http://localhost:4444/wd/hub";
+            nodeURL = "http://host.docker.internal:4444/wd/hub";
             driver = new RemoteWebDriver(new URL(nodeURL), options);
         } else if (browser.equalsIgnoreCase("edge")) {
             EdgeOptions options = new EdgeOptions();
